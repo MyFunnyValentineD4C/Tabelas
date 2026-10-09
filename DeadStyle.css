@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(13, 73, 126);
+}
+
+h1 {
+    color: aliceblue;
+}
+
+caption {
+    color:rgb(255, 88, 88)
+}
+th {
+    color:aliceblue
+}
+
+td {
+    color: aliceblue;
+}
+
+tbody {
+    background-color: rgb(86, 76, 141);
+}
